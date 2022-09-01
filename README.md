@@ -1,3 +1,5 @@
+for detailed description of the project refer this blog: https://medium.com/@devparmar967/a-quick-guide-for-building-datawarehouse-and-etl-pipelines-with-airflow-19cce17017bd
+
 # STEPS TO START:
 
 - create virtual environment 
